@@ -9,7 +9,10 @@
     border: 1px solid #ddd;
     margin-bottom: 20px;
 }
-
+p{
+	
+    background-color: #ffffff;
+}
 .author{
 	text-align: right;
 	font-style: italic;	
